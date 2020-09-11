@@ -16,6 +16,7 @@
 
 ## Maintains / Contributes
 
+- [Fastify](https://github.com/fastify)
 - [Denolib](https://github.com/denolib)
 - [Mkbdfr](https://github.com/mkbdfr)
 - [deno](https://github.com/denoland/deno)
