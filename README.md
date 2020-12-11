@@ -6,16 +6,9 @@
 - :ocean: Ocean lover
 - :house: Living in a little town in the west of France
 
-## Keycap Archivist
-<p align="center">
-<img align="center" src="https://avatars2.githubusercontent.com/u/64903597?s=200&v=4"/>
-</p>
-
-[Keycap Archivist](https://github.com/keycap-archivist) is Collaborative and community driver Artisan keycap database/interface.
-
-
 ## Maintains / Contributes
 
+- [Keycap Archivist](https://github.com/keycap-archivist)
 - [Fastify](https://github.com/fastify)
 - [Denolib](https://github.com/denolib)
 - [Mkbdfr](https://github.com/mkbdfr)
