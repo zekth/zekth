@@ -17,7 +17,6 @@
 - [mustache](https://github.com/janl/mustache.js/)
 - And many more...
 
-## Misc
 
 
 <!--
