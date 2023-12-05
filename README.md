@@ -1,4 +1,4 @@
-# Vincent Le Goff aka Zekth
+# Me
 
 - :briefcase: Software Engineer
 - :sparkles: Open Source enthusiast
